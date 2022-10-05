@@ -4,5 +4,5 @@
         include "classes/$className.php";
     });
 
-    $routes  = new routes;
+    $routes  = new rout;
 ?>
